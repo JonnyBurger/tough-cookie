@@ -18,7 +18,7 @@
     "RFC6265",
     "RFC2965"
   ],
-  "version": "2.3.0",
+  "version": "2.4.0",
   "homepage": "https://github.com/JonnyBurger/tough-cookie-no-native",
   "repository": {
     "type": "git",
